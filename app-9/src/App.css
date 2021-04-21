@@ -1,5 +1,9 @@
-.App {
+.app {
   text-align: center;
+}
+
+.navList {
+  padding-right: 2%;
 }
 
 .App-logo {
